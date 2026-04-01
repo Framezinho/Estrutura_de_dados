@@ -9,6 +9,7 @@ def menu():
         print("1) Inserir na fila")
         print("2) Remover da fila")
         print("3) Exibir fila")
+        
         print("4) Limpar fila")
         print("0) Sair")
 
